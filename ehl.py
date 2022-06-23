@@ -9,7 +9,7 @@ Original file is located at
 TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 """
 
-!pip install tpot
+
 
 import tpot
 import pandas as pd
